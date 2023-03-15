@@ -80,7 +80,7 @@ numbers.shift();
 
 
 // get piece of array
-numbers2 = numbers.slice(0,3); // 1,2,3
+numbers2 = numbers.slice(0,3); 
 console.log(numbers2)
 
 
